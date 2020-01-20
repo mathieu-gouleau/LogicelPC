@@ -36,19 +36,18 @@ import tkinter.messagebox as msg
 #import picamera
 from PIL import Image
 from PIL import ImageTk
-import cv2
 import numpy as np
 from tkinter import filedialog
 import firebase
 from google.cloud import storage
 from google.cloud.storage import client
-import cv2
 import pyrebase 
 import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import storage
 import os
 import uuid
+import cv2
 
 
 
